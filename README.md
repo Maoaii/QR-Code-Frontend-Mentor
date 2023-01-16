@@ -35,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - [Solution](https://github.com/Maoaii/QR-Code-Frontend-Mentor)
-- [Live Site]()
+- [Live Site](https://maoaii.github.io/QR-Code-Frontend-Mentor/)
 
 ## My Process
 
